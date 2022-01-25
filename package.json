@@ -1,0 +1,35 @@
+{
+    "name": "vega-dark",
+    "displayName": "Veaga Dark",
+    "description": "Dark blue theme for VSCode",
+    "version": "1.0.0",
+    "publisher": "zaid",
+    "icon": "images/shooting-star-icon.png",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zaidmukaddam/vscode-vega-dark.git"
+    },
+    "author": {
+        "name": "zaidmukaddam"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Vega Dark",
+        "Dark Theme",
+        "Blue"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vega Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Vega Dark-color-theme.json"
+            }
+        ]
+    }
+}
