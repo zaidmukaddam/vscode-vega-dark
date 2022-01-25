@@ -6,8 +6,6 @@ A Dark Blue theme for VSCode.
 
 Mostly tested on TypeScript and JavaScript.
 
-Mostly tested on TypeScript and JavaScript.
-
 ## Examples
 ### TypeScript
 ![A react counter in tsx](https://raw.githubusercontent.com/zaidmukaddam/vscode-vega-dark/main/images/tsx.png)
