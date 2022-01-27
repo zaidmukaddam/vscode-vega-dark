@@ -2,6 +2,8 @@
 
 A Dark Blue theme for VSCode. 
 
+<a href="https://marketplace.visualstudio.com/items?itemName=zaid.vega-dark"><img src="https://vsmarketplacebadge.apphb.com/installs-short/zaid.vega-dark.svg?style=for-the-badge&colorA=252526&colorB=43A047&label=Installs" alt="Installs"></a>&nbsp;
+
 *Note: Still WIP so I may have missed out some colors*
 
 Mostly tested on TypeScript and JavaScript.
